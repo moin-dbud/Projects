@@ -1,18 +1,18 @@
-# Internship Projects - StaxTech 🚀
+# Projects Repository
 
-This repository contains the two projects I completed as part of my 1-month **Software Developer Internship** at **StaxTech**. The internship focused on hands-on learning, problem-solving, and demonstrating core development skills through real-world projects.
+This repository contains two web development projects:
 
-## 🧑‍💻 About Me
-
-Hi, I’m **Moin Sameer Sheikh**, an AI and Data Science student passionate about building intelligent systems and crafting innovative web solutions. This internship allowed me to apply my technical knowledge, explore different stacks, and contribute meaningfully through independent project work.
+1. **Student Management System**  
+2. **Blog Website**
 
 ---
 
-## 📁 Projects Included
+## Project 1: Student Management System
 
-### 1. 🎓 Student Management System
+### Description  
+The Student Management System is a web application designed to help educational institutions manage student data efficiently. It provides features for adding, updating, viewing, and deleting student records. The system is built with user-friendly interfaces and backend logic to handle data storage and retrieval seamlessly.
 
-A web-based platform to manage student records efficiently. It provides a user-friendly interface for adding, updating, deleting, and viewing student data.
+
 
 **🔧 Tech Stack:**
 | Category     | Technology         |
@@ -36,9 +36,10 @@ A web-based platform to manage student records efficiently. It provides a user-f
 
 ---
 
-### 2. ✍️ Blog Website
+## Project 2: Blog Website
 
-A fully functional blog platform that allows users to read, write, and manage blog posts.
+### Description  
+The Blog Website project is a platform where users can read, write, and share blog posts. It is designed to provide a simple and elegant blogging experience with features like user authentication, creating and editing posts, and commenting.
 
 **🔧 Tech Stack:**
 | Category     | Technology         |
@@ -59,15 +60,6 @@ A fully functional blog platform that allows users to read, write, and manage bl
 
 **💡 Use Case:** A lightweight blogging system for personal blogs, tech articles, or journal-style content.
 
----
-
-## 📌 Internship Info
-
-**Company:** StaxTech  
-**Role:** Software Developer Intern  
-**Duration:** 1 Month  
-**Type:** Unpaid, Project-Based  
-**Mentor:** Mr. Pawan Kushwaha (Founder, StaxTech)
 
 ---
 
